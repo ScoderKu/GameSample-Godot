@@ -343,6 +343,12 @@ position = Vector2(797, -23)
 [node name="Coin8" parent="Coins" unique_id=1096083982 instance=ExtResource("4_lbhrr")]
 position = Vector2(797, -40)
 
+[node name="Coin9" parent="Coins" unique_id=1761235729 instance=ExtResource("4_lbhrr")]
+position = Vector2(844, -124)
+
+[node name="Coin10" parent="Coins" unique_id=1078535494 instance=ExtResource("4_lbhrr")]
+position = Vector2(1022, -145)
+
 [node name="Platforms" type="Node" parent="." unique_id=812936580]
 
 [node name="Platform" parent="Platforms" unique_id=1884459096 instance=ExtResource("3_lnu2h")]
@@ -372,6 +378,12 @@ position = Vector2(-503, 1)
 
 [node name="Slime4" parent="Slimes" unique_id=1028000164 instance=ExtResource("6_p57ef")]
 position = Vector2(125, -127)
+
+[node name="Slime5" parent="Slimes" unique_id=1305635373 instance=ExtResource("6_p57ef")]
+position = Vector2(277, -127)
+
+[node name="Slime6" parent="Slimes" unique_id=38327416 instance=ExtResource("6_p57ef")]
+position = Vector2(240, -160)
 
 [node name="Labels" type="Node" parent="." unique_id=358647812]
 
